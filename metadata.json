@@ -1,0 +1,6 @@
+{
+  "name": "Influencer Marketing Platform",
+  "description": "An end-to-end platform combining creator discovery, AI-powered matching, smart contracts, negotiation, escrow payments, and multi-platform analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
